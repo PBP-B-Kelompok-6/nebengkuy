@@ -63,3 +63,4 @@ Vincent Armando / 2506618540
 ##  Tautan Penting
    Tautan Deployment (PWS): [Akan diisi pada Checkpoint 2]
    Tautan Desain UI/Wireframe (Figma): https://www.figma.com/design/NBWjUCqdKOdoI8wgXfTb5E/Nebeng-kUI?node-id=0-1&t=calHUAJZhuKMqxEM-1
+   Tautan System Design: https://drive.google.com/file/d/1eBAYazG7ObP_Oq-u8arAwh9j7H5QoSvr/view?usp=sharing
