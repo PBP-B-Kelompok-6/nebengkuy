@@ -17,10 +17,10 @@ Peran Pengguna:
 #Catatan : Setiap user bisa menjadi kedua role tersebu
 
 ## Anggota Kelompok
-Fadlan Fathul Islam / 2506601275
-Muhammad Ridho Anwar / 2506595745
-Andrew Chandra Halim / 2506656431
-Vincent Armando / 2506618540
+1. Fadlan Fathul Islam / 2506601275
+2. Muhammad Ridho Anwar / 2506595745
+3. Andrew Chandra Halim / 2506656431
+4. Vincent Armando / 2506618540
 
 ##  Daftar Modul dan Pembagian Kerja
 
@@ -61,6 +61,6 @@ Vincent Armando / 2506618540
    Initial Data: Proyek ini akan di-seed dengan 50 data awal yang berisi daftar titik lokasi kumpul strategis (seperti halte bis kuning, stasiun KRL, gerbang fakultas, dan area kos).
 
 ##  Tautan Penting
-   Tautan Deployment (PWS): https://vincent-armando-nebengkui.pws.cs.ui.ac.id/
-   Tautan Desain UI/Wireframe (Figma): https://www.figma.com/design/NBWjUCqdKOdoI8wgXfTb5E/Nebeng-kUI?node-id=0-1&t=calHUAJZhuKMqxEM-1
-   Tautan System Design: https://drive.google.com/file/d/1eBAYazG7ObP_Oq-u8arAwh9j7H5QoSvr/view?usp=sharing
+   * Tautan Deployment (PWS): https://vincent-armando-nebengkui.pws.cs.ui.ac.id/
+   * Tautan Desain UI/Wireframe (Figma): https://www.figma.com/design/NBWjUCqdKOdoI8wgXfTb5E/Nebeng-kUI?node-id=0-1&t=calHUAJZhuKMqxEM-1
+   * Tautan System Design: https://drive.google.com/file/d/1eBAYazG7ObP_Oq-u8arAwh9j7H5QoSvr/view?usp=sharing
